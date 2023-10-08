@@ -5,7 +5,7 @@ Stage 1 activities given by professor Roger Moura(Java).
 ## Equipe
 - Links para o Perfil: 
 1. [José Maia](https://github.com/JoseMaia07)
-2. [Lucas Venício](https://github.com/livia0oliveira)
+2. [Lucas Venício](https://github.com/09794)
 
 ## N1
 ### Lista de Exércicios
